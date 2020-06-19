@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="net.mydreamy.requirementmodel.springboot.feature"
+      label="RM2PT: SpringBoot Generator"
+      version="1.0.0.qualifier">
+
+   <description url="http://www.rm2pt.com/springboot">
+      Enterprise Application Generation (SpringBoot)
+   </description>
+
+   <copyright url="http://www.rm2pt.com/copyright">
+      RM2PT.com
+   </copyright>
+
+   <license url="http://www.rm2pt.com/license">
+      RM2PT.com
+   </license>
+
+   <plugin
+         id="net.mydreamy.requirementmodel.springboot"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
