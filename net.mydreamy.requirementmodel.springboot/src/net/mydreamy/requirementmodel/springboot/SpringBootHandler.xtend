@@ -25,7 +25,7 @@ import org.eclipse.jface.text.TextSelection
 class SpringBootHandler extends AbstractHandler implements IHandler {
 	
 	@Inject
-    net.mydreamy.springboot.generator.SpringBootGenerator generator;
+    SpringBootGenerator generator;
  
     @Inject
     Provider<EclipseResourceFileSystemAccess2> fileAccessProvider;
